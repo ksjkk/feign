@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+
+feign:
+  destination:
+    server2: http://localhost:8082
